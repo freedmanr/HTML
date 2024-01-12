@@ -1,0 +1,42 @@
+h1{
+ text-align: center;
+}
+h2{
+    text-align: center;
+}
+
+span{
+    color: coral;
+    font-size: 23px;
+    border-color: blue;
+    border-style: solid;
+    border-width: 2px;
+    background-color: black;
+    padding: 5px;
+    display: inline-block;
+    margin-right: 40px;
+    margin:0;
+}
+a{
+    color:blue;
+}
+body{
+    background-color: blanchedalmond;
+}
+#contact{
+    padding-left: 0px;
+    font-size: 26px;
+}
+#first{
+    margin-top:-10px;
+}
+a:hover{
+    text-decoration: none;
+    color:orange;
+}
+.links a{
+    color:orange;
+}
+
+
+        
